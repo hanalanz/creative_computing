@@ -1,0 +1,43 @@
+pre{
+
+	Color: #3f4658;
+	text-align: center;
+	font-family: 'Nanum Myeongjo', serif;
+
+}
+h1{
+	font-family: 'Nanum Myeongjo', serif;
+}
+
+h2{
+	font-family: 'Nanum Myeongjo', serif;
+}
+.heart {
+
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 250px;
+  width:250px;
+}
+
+body { 
+
+  background-image: url("ts.jpg");
+
+ }
+
+ h1 { 
+ 	
+Color: #3f4658;
+text-align: center;
+
+  }
+
+  h2 {
+
+Color: #3f4658;
+  	text-align: center;
+
+  }
