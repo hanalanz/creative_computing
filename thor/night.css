@@ -1,0 +1,72 @@
+h2 {
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+p{
+margin-left:  20vh;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*img{
+	width: 25px;
+	height:25px;
+}*/
+
+#image3{
+	width: 25vh;
+	height:25vh;
+	margin-top: 45vh;
+	margin-left:  15vh;
+}
+
+
+.head{
+	height: 10vh;
+	margin-top: 5vh;
+	border-bottom: 2px solid black;
+}
+
+.images{
+	display: flex; 
+}
+
+.wheel{
+	flex: 1;
+	margin-top: 10vh;
+
+	
+	
+}
+
+.thor{
+	flex: 1;
+	margin-top: 20vh;
+
+
+}
+
+.food{
+	flex: 1;
+}
+
+
+
+/*@keyframes spinning{
+  0%{
+
+   transform:rotate(0deg);
+  }
+  100%{
+   transform:rotate(360deg);
+  }
+}
+
+#wheel{
+	animation: spinning 1s infinite linear;
+}*/
