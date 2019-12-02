@@ -1,10 +1,60 @@
-p {
-	color: black;
-}
+
 .title{
 	text-align: center;
 	line-height: 2vh;
+	color: white;
+	border-bottom: 0.5vh solid white;
+	margin-top: 2vh;
 }
 h1, h2, h3{
 font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+color: white;
 }
+
+body {
+	background-color: #F6D7DE;
+
+}
+
+.bottom {
+	display: flex;
+	width: 200vh;
+	margin-left: 40vh;
+
+}
+.exercise {
+	flex: 1
+	
+
+}
+.project{
+	flex:1;
+
+}
+
+.et{
+	background-color: #F8AFB1;
+	width: 19vh;
+	border: 0.25vh solid white;
+
+}
+
+h2{
+	font-size: 30px;
+	text-align: center
+}
+
+.projs{
+	background-color: white;
+	width: 19vh;
+	text-align: center;
+}
+
+p{
+	font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+color: #F8AFB1;
+
+
+}
+
+
