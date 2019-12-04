@@ -19,7 +19,7 @@ body {
 .bottom {
 	display: flex;
 	width: 200vh;
-	margin-left: 40vh;
+	margin-left: 35vh;
 
 }
 .exercise {
@@ -33,7 +33,7 @@ body {
 }
 
 .et{
-	background-color: #F8AFB1;
+	background-color: #F4A2A7;
 	width: 19vh;
 	border: 0.25vh solid white;
 
@@ -47,14 +47,32 @@ h2{
 .projs{
 	background-color: white;
 	width: 19vh;
+	
 	text-align: center;
+
 }
 
 p{
 	font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
-color: #F8AFB1;
+color: #F4A2A7;
+
 
 
 }
+
+.about{
+	flex:1;
+	text-align: center;
+	margin-left: -60vh;
+	width: 5vh;
+	margin-right: 5vh;
+}
+
+
+p:hover{
+	color:#F6D7DE;
+}
+
+
 
 
